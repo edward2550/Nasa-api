@@ -1,0 +1,41 @@
+html {
+
+    font-size: 2rem;
+    background:linear-gradient(lightyellow,blue);
+}
+header{
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+select {
+    font-size:1.1rem
+}
+.section-container {
+    display: flex;
+     flex-direction: row;
+
+     padding-left:  10vw;
+     padding-right: 10vw;
+}
+.column {
+    flex: 1;
+
+}
+img{
+    max-width:500px;
+    max-height:500px;
+}
+span {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.3rem;
+}
+
+#dog-name {
+    font-size: 2rem;
+    text-decoration: none;
+}
+#left-column {
+    text-align: center;
+}
